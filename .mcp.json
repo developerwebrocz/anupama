@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "novamira-anupamahospitals": {
+      "command": "npx",
+      "args": ["-y", "@automattic/mcp-wordpress-remote@latest"],
+      "env": {
+        "WP_API_URL": "https://www.anupamahospitals.com/wp-json/mcp/novamira",
+        "WP_API_USERNAME": "webrocz",
+        "WP_API_PASSWORD": "${WP_API_PASSWORD}"
+      }
+    }
+  }
+}
