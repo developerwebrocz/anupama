@@ -1,0 +1,5 @@
+Mee venue lo accommodation facility unte, Room Registration ki vellandi.
+Create Slots option lo mee requirement prakaram 12-hour or 24-hour configuration select cheyandi.
+ADD ROOM button meeda click chesi, mee venue lo available unna room details enter chesi save cheyandi.
+Ippudu mana venue registration process complete ayyindi.
+Registered email ID and password tho login cheyandi.

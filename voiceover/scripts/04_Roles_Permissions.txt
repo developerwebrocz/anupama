@@ -1,0 +1,3 @@
+Side Menu lo unna Roles and Permissions open cheyandi.
+Add Role button meeda click cheyandi.
+Manager, Executive, Receptionist and Security Guard lanti roles lo, meeku avasaram unna role ni select chesukoni, bottom lo unna Add Role button meeda click chesi save cheyandi.

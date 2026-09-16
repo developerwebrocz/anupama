@@ -1,0 +1,7 @@
+Customer record lo unna Invoice button meeda click chesi, Create Invoice meeda click cheyandi.
+First, all details verify cheyandi.
+Required unte Discount and GST details update cheyandi.
+Terms and Conditions add cheyandi.
+Customer pay chesina advance amount enter chesi, Payment Mode select cheyandi.
+Create Invoice button meeda click cheyandi.
+Customer complete amount one time lo pay chesina, or installments lo pay chesina, different stages lo invoices generate and manage cheyochu.

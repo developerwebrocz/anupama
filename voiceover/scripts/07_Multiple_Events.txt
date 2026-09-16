@@ -1,0 +1,23 @@
+Oka customer ki multiple dates lo multiple events unte, same enquiry flow lo ela add cheyalo choosdam.
+For example:
+December 11th, Reception, Breakfast, Main Hall.
+and
+December 12th, Wedding, Lunch, Mini Hall.
+Home page lo unna Add button meeda click cheyandi.
+Enquiry Person Details lo enquiry person name, contact number, email and other required details enter cheyandi.
+Next, Event Dates lo December 11th and December 12th dates select cheyandi.
+Required address and other details enter chesi Continue button meeda click cheyandi.
+Now, Event Details lo first event date December 11th select chesukoni, event type lo TRADITIONAL EVENTS select chesi, Reception event ni select cheyandi.
+Tarvata Sub-Venue select chesi, Main Hall ni select cheyandi.
+Booking For lo Breakfast, Lunch, Dinner or Whole Day options lo Breakfast select cheyandi.
+Remaining required details enter cheyandi.
+Next, Dining, Accommodation and Additional Services details ni requirement prakaram enter cheyandi.
+Ivi optional details. Required unte details enter cheyandi.
+Second event add cheyadaniki Another Event button meeda click cheyandi.
+Now, second event date December 12th select chesukoni, event type lo TRADITIONAL EVENTS select chesi, Wedding event ni select cheyandi.
+Tarvata Sub-Venue select chesi, Mini Hall ni select cheyandi.
+Booking For lo Breakfast, Lunch, Dinner or Whole Day options lo Lunch select cheyandi.
+Remaining required details enter cheyandi.
+Next, Dining, Accommodation and Additional Services details ni requirement prakaram enter cheyandi.
+Finally, Save chesi enquiry create cheyandi.
+Ila, one enquiry lo different dates ki different events, sessions and Sub-Venues ni manage cheyochu.

@@ -1,0 +1,4 @@
+Finally, Home Page and Dashboard overview chooddam.
+Home Page lo Today's Enquiries, Appointments, Follow-ups, Tasks and Checklists and Pending Payments options kanipistayi.
+Dashboard lo Customer Summary, Revenue Checker, Visitor Statistics, Tasks and Checklists ni quick ga access cheyochu.
+Required module meeda tap chesi, direct ga aa operation ki vellandi.

@@ -1,0 +1,6 @@
+Customer ki follow-up cheyali ante, enquiry record open cheyandi.
+Follow-up option select chesi date, time and required notes enter cheyandi.
+Save cheste follow-up schedule aipothundi.
+Appointment kosam same enquiry record nunchi Appointment option select cheyandi.
+Date, time and required notes enter chesi save cheyandi.
+Ila follow-ups and customer appointments ni easy ga manage cheyochu.
