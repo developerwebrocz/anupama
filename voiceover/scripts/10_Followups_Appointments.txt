@@ -1,6 +1,6 @@
-Customer ki follow-up cheyali ante, enquiry record open cheyandi.
-Follow-up option select chesi date, time and required notes enter cheyandi.
-Save cheste follow-up schedule aipothundi.
-Appointment kosam same enquiry record nunchi Appointment option select cheyandi.
-Date, time and required notes enter chesi save cheyandi.
-Ila follow-ups and customer appointments ni easy ga manage cheyochu.
+Customer కి follow-up చేయాలి అంటే, enquiry record open చేయండి.
+Follow-up option select చేసి date, time and required notes enter చేయండి.
+Save చేస్తే follow-up schedule అయిపోతుంది.
+Appointment కోసం same enquiry record నుంచి Appointment option select చేయండి.
+Date, time and required notes enter చేసి save చేయండి.
+ఇలా follow-ups and customer appointments ని easy గా manage చేయొచ్చు.

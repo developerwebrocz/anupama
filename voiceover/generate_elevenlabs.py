@@ -46,15 +46,16 @@ for fname in scripts:
     text = open(os.path.join(base, "scripts", fname)).read().strip()
     body = {
         "text": text,
-        # multilingual v2 handles Telugu-English code-mixed lines best
-        "model_id": "eleven_multilingual_v2",
-        "voice_settings": {"stability": 0.5, "similarity_boost": 0.75},
+        # eleven_v3 supports Telugu natively; scripts are Telugu-script +
+        # English code-mixed for native-speaker pronunciation
+        "model_id": "eleven_v3",
     }
     r = requests.post(
         f"{API}/text-to-speech/{voice_id}?output_format=mp3_44100_128",
         headers=HEADERS, json=body, timeout=300,
     )
-    r.raise_for_status()
+    if r.status_code >= 400:
+        sys.exit(f"{name}: HTTP {r.status_code}: {r.text[:500]}")
     with open(out_path, "wb") as f:
         f.write(r.content)
     print(f"{name}.mp3  {len(r.content) / 1024:.0f} KB")

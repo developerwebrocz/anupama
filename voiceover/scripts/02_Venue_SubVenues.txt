@@ -1,7 +1,7 @@
-Now, Venue Details lo mee venue name and Venue Type select cheyandi.
-Phone, email, Country and other business-related details enter cheyandi.
-Next button meeda click chesi Sub-Venue Registration ki vellandi.
-Mee venue lo different spaces unte, vatini Sub-Venues ga add cheyochu.
-Ee demo lo nenu Main Hall, Mini Hall and Lawn ani register chestanu.
-Prathi Sub-Venue ni separate ga add chesi save cheyandi.
-Dini valla each space ki separate availability and bookings manage cheyochu.
+Now, Venue Details లో మీ venue name and Venue Type select చేయండి.
+Phone, email, Country and other business-related details enter చేయండి.
+Next button మీద click చేసి Sub-Venue Registration కి వెళ్ళండి.
+మీ venue లో different spaces ఉంటే, వాటిని Sub-Venues గా add చేయొచ్చు.
+ఈ demo లో నేను Main Hall, Mini Hall and Lawn అని register చేస్తాను.
+ప్రతి Sub-Venue ని separate గా add చేసి save చేయండి.
+దీని వల్ల each space కి separate availability and bookings manage చేయొచ్చు.

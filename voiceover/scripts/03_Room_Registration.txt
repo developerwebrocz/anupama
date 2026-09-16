@@ -1,5 +1,5 @@
-Mee venue lo accommodation facility unte, Room Registration ki vellandi.
-Create Slots option lo mee requirement prakaram 12-hour or 24-hour configuration select cheyandi.
-ADD ROOM button meeda click chesi, mee venue lo available unna room details enter chesi save cheyandi.
-Ippudu mana venue registration process complete ayyindi.
-Registered email ID and password tho login cheyandi.
+మీ venue లో accommodation facility ఉంటే, Room Registration కి వెళ్ళండి.
+Create Slots option లో మీ requirement ప్రకారం 12-hour or 24-hour configuration select చేయండి.
+ADD ROOM button మీద click చేసి, మీ venue లో available ఉన్న room details enter చేసి save చేయండి.
+ఇప్పుడు మన venue registration process complete అయ్యింది.
+Registered email ID and password తో login చేయండి.

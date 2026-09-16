@@ -1,12 +1,12 @@
-Ee demo lo December 21st, Birthday, Dinner, Main Hall ki enquiry ela add cheyalo choosdam.
-Home page lo unna Add button meeda click cheyandi.
-Enquiry Person Details lo enquiry person name, contact number, email, event date, December 21st, and other required details enter cheyandi.
-Next, Event Details lo event date December 21st select chesukoni, event type lo REGULAR EVENTS select chesi, Birthday event ni select cheyandi.
-Tarvata Sub-Venue select chesi, Main Hall ni select cheyandi.
-Booking For lo Breakfast, Lunch, Dinner or Whole Day options lo Dinner select cheyandi.
-Remaining required details enter cheyandi.
-Next, Dining, Accommodation and Additional Services details ni mee requirement prakaram enter cheyandi.
-Ivi optional details. Required unte details enter chesi Save cheyandi.
-Enquiry create aipothundi.
-Create ayina enquiry ni All Enquiries lo chudachu.
-View Details meeda click cheste complete enquiry details chudachu.
+ఈ demo లో December 21st, Birthday, Dinner, Main Hall కి enquiry ఎలా add చేయాలో చూద్దాం.
+Home page లో ఉన్న Add button మీద click చేయండి.
+Enquiry Person Details లో enquiry person name, contact number, email, event date, December 21st, and other required details enter చేయండి.
+Next, Event Details లో event date December 21st select చేసుకొని, event type లో Regular Events select చేసి, Birthday event ని select చేయండి.
+తర్వాత Sub-Venue select చేసి, Main Hall ని select చేయండి.
+Booking For లో Breakfast, Lunch, Dinner or Whole Day options లో Dinner select చేయండి.
+Remaining required details enter చేయండి.
+Next, Dining, Accommodation and Additional Services details ని మీ requirement ప్రకారం enter చేయండి.
+ఇవి optional details. Required ఉంటే details enter చేసి Save చేయండి.
+Enquiry create అయిపోతుంది.
+Create అయిన enquiry ని All Enquiries లో చూడొచ్చు.
+View Details మీద click చేస్తే complete enquiry details చూడొచ్చు.

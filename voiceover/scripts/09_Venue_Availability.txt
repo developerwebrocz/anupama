@@ -1,5 +1,5 @@
-Booking confirm ayyaka, Venue Availability open cheyandi.
-Required date select cheyandi.
-Calendar lo available and booked Sub-Venues ni check cheyandi.
-Confirmed booking ki related date and Sub-Venue availability lo reflect avutayi.
-So, next booking mundu availability ni easy ga verify cheyochu.
+Booking confirm అయ్యాక, Venue Availability open చేయండి.
+Required date select చేయండి.
+Calendar లో available and booked Sub-Venues ని check చేయండి.
+Confirmed booking కి related date and Sub-Venue availability లో reflect అవుతాయి.
+So, next booking ముందు availability ని easy గా verify చేయొచ్చు.

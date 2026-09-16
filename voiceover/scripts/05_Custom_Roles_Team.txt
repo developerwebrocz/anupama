@@ -1,7 +1,7 @@
-Different requirements unte, Custom Role kuda create cheyochu.
-Role name enter chesi, required modules and permissions select cheyandi.
-Next, My Team ki vellandi.
-Add Team Member button meeda click cheyandi.
-Mee staff details enter chesi, suitable role assign cheyandi.
-OTP verification complete chesi process finish cheyandi.
-Now, customer enquiry add cheddam.
+Different requirements ఉంటే, Custom Role కూడా create చేయొచ్చు.
+Role name enter చేసి, required modules and permissions select చేయండి.
+Next, My Team కి వెళ్ళండి.
+Add Team Member button మీద click చేయండి.
+మీ staff details enter చేసి, suitable role assign చేయండి.
+OTP verification complete చేసి process finish చేయండి.
+Now, customer enquiry add చేద్దాం.

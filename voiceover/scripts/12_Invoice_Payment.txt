@@ -1,7 +1,7 @@
-Customer record lo unna Invoice button meeda click chesi, Create Invoice meeda click cheyandi.
-First, all details verify cheyandi.
-Required unte Discount and GST details update cheyandi.
-Terms and Conditions add cheyandi.
-Customer pay chesina advance amount enter chesi, Payment Mode select cheyandi.
-Create Invoice button meeda click cheyandi.
-Customer complete amount one time lo pay chesina, or installments lo pay chesina, different stages lo invoices generate and manage cheyochu.
+Customer record లో ఉన్న Invoice button మీద click చేసి, Create Invoice మీద click చేయండి.
+First, all details verify చేయండి.
+Required ఉంటే Discount and GST details update చేయండి.
+Terms and Conditions add చేయండి.
+Customer pay చేసిన advance amount enter చేసి, Payment Mode select చేయండి.
+Create Invoice button మీద click చేయండి.
+Customer complete amount one time లో pay చేసినా, or installments లో pay చేసినా, different stages లో invoices generate and manage చేయొచ్చు.
