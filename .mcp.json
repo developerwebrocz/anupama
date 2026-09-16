@@ -8,6 +8,14 @@
         "WP_API_USERNAME": "webrocz",
         "WP_API_PASSWORD": "${WP_API_PASSWORD}"
       }
+    },
+    "elevenlabs-chey": {
+      "command": "uvx",
+      "args": ["elevenlabs-mcp"],
+      "env": {
+        "ELEVENLABS_API_KEY": "${ELEVENLABS_API_KEY}",
+        "ELEVENLABS_VOICE_NAME": "Chey"
+      }
     }
   }
 }
