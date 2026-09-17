@@ -1,13 +1,13 @@
 ఒక customer కి multiple dates లో multiple events ఉంటే, same enquiry flow లో ఎలా add చేయాలో చూద్దాం.
 For example:
-December 11th, Reception, Breakfast, Main Hall.
+December 11th, Engagement, Breakfast, Main Hall.
 and
 December 12th, Wedding, Lunch, Mini Hall.
 Home page లో ఉన్న Add button మీద click చేయండి.
 Enquiry Person Details లో enquiry person name, contact number, email and other required details enter చేయండి.
 Next, Event Dates లో December 11th and December 12th dates select చేయండి.
 Required address and other details enter చేసి Continue button మీద click చేయండి.
-Now, Event Details లో first event date December 11th select చేసుకొని, event type లో Traditional Events select చేసి, Reception event ని select చేయండి.
+Now, Event Details లో first event date December 11th select చేసుకొని, event type లో Traditional Events select చేసి, Engagement event ని select చేయండి.
 తర్వాత Sub-Venue select చేసి, Main Hall ని select చేయండి.
 Booking For లో Breakfast, Lunch, Dinner or Whole Day options లో Breakfast select చేయండి.
 Remaining required details enter చేయండి.
