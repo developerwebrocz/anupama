@@ -1,4 +1,5 @@
-For example, first thirty thousand rupees advance payment record చేసి, corresponding invoice generate చేయండి.
-Later twenty seven thousand three hundred forty eight rupees payment receive అయితే, ఆ payment ని separately record చేసి invoice generate చేయండి.
+For example, first installment లో fifty thousand rupees advance payment record చేసి, corresponding invoice generate చేయండి.
+Later twenty five thousand rupees payment receive అయితే, Update Payment button మీద click చేసి, Add Payment లో amount and payment mode select చేసి, Submit button మీద click చేయండి.
+అలాగే final payment twenty five thousand, plus eighteen percent GST, total forty three thousand enter చేసి update చేయొచ్చు.
 ఇలా different dates and stages లో receive అయ్యే payments ని manage చేయొచ్చు.
-Invoice History లో total received amount and pending balance కూడా one place లో check చేయొచ్చు.
+Side menu లో ఉన్న Invoice History లో total received amount and pending balance కూడా one place లో check చేయొచ్చు.
