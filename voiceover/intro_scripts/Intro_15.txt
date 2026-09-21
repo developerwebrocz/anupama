@@ -1,0 +1,1 @@
+మీరు ఒకవేళ మీ security guard కి role create చేస్తే, visitor log ని ఎలా use చేయాలో చూద్దాం.

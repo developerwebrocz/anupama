@@ -1,0 +1,1 @@
+So, registration నుంచి customer feedback వరకు, complete venue management ని ఒకే app లో manage చేయొచ్చు.

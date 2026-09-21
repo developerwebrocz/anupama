@@ -1,0 +1,1 @@
+ఇప్పుడు booking confirm చేసిన వాళ్ళకి, room ఎలా allocate చేయాలో చూద్దాం.

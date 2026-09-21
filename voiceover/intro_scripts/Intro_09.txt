@@ -1,0 +1,1 @@
+ఇప్పుడు booking తీసుకునే ముందు, venue availability ని ఎలా check చేయాలో చూద్దాం.

@@ -1,0 +1,1 @@
+ఇప్పుడు ఒక single event కి enquiry ఎలా add చేయాలో చూద్దాం.

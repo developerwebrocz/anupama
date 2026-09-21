@@ -1,0 +1,1 @@
+ఒకవేళ customer one lakh ని three installments లో pay చేస్తే, ఆ payments ని ఎలా update చేయాలో చూద్దాం.
