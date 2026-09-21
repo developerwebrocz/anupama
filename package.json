@@ -1,0 +1,17 @@
+{
+  "name": "anupama-elevenlabs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ElevenLabs API integration for Anupama Hospitals",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "elevenlabs": "./src/cli.js"
+  },
+  "scripts": {
+    "voices": "node src/cli.js voices",
+    "quota": "node src/cli.js quota"
+  }
+}
