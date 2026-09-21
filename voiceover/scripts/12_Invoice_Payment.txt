@@ -1,5 +1,6 @@
 Customer record లో ఉన్న Invoice button మీద click చేసి, Create Invoice మీద click చేయండి.
 First, all details verify చేయండి.
+Customer details, venue billing, company logo, services billing.
 Required ఉంటే Discount and GST details update చేయండి.
 Terms and Conditions add చేయండి.
 Customer pay చేసిన advance amount enter చేసి, Payment Mode select చేయండి.
