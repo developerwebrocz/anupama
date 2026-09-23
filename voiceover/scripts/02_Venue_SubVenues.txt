@@ -1,4 +1,5 @@
 Now, Venue Details లో మీ venue name and Venue Type select చేయండి.
+ఈ demo లో నేను Venue Type ని Convention Hall గా choose చేస్తున్నాను.
 Phone, email, Country and other business-related details enter చేయండి.
 Next button మీద click చేసి Sub-Venue Registration కి వెళ్ళండి.
 మీ venue లో different spaces ఉంటే, వాటిని Sub-Venues గా add చేయొచ్చు.
