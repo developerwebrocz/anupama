@@ -1,4 +1,4 @@
 Finally, Home Page and Dashboard overview చూద్దాం.
-Home Page లో Today's Enquiries, Appointments, Follow-ups, Tasks and Checklists and Pending Payments options కనిపిస్తాయి.
+Home Page లో Today's Enquiries, Events, Appointments, Follow-ups, Tasks and Checklists and Pending Payments options కనిపిస్తాయి.
 Dashboard లో Customer Summary, Revenue Checker, Visitor Statistics, Tasks and Checklists ని quick గా access చేయొచ్చు.
 Required module మీద tap చేసి, direct గా ఆ operation కి వెళ్ళండి.
